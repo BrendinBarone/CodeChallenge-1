@@ -1,0 +1,15 @@
+#container {
+  background #343434;
+}
+.newDiv {
+  float:right;
+  height: 50px;
+  width: 200px;
+  background-color: red;
+  margin: 10px;
+}
+.yellow {
+  height: 50px;
+  width: 200px;
+  background-color: yellow;
+}
